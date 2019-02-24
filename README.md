@@ -3,6 +3,7 @@ Journey to be **full-stack developers**, having knowledge in front-end and back-
 
 
 ### Useful Links:
+- [Github awesome collections](https://github.com/collections)
 - **StackedIt** [Edit markdown (.md) files with live preview](stackedit.io)
 - [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/blob/master/README.md)
 - [Fullstack web dev course for someone who can already program](https://www.reddit.com/r/learnprogramming/comments/9egdk2/online_fullstack_webdev_course_for_someone_who/?st=JSFD22C8&sh=846a5f0b)
