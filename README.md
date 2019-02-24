@@ -40,3 +40,22 @@ Journey to be **full-stack developers**, having knowledge in front-end and back-
 
 - jQuery:
 1. https://www.youtube.com/watch?v=VlWsJHsVb-E&index=2&list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc
+
+# ANNOUNCEMENT
+
+### Hey guys! We are pleased to say that you have been cordially invited to SISTERHOOD's first ever Hack Day! 😍 For 12 hours, we will immerse ourselves in the intriguing world of Web Development! Details of this can't-be-missed event are as follow:
+
+- Date: 23rd February 2019
+- Time: 9am - 9pm
+- Venue: KPS, UM
+- Subjects: Front End in the morning and Back End in the afternoon (So you're well on your way to becoming a Full Stack Developer! Ain't that cool? 🙃 Well we're not gonna be able to cover everything but something is better than nothing right? 😂)
+
+Self-sponsored breakfast, lunch, and dinner via delivery service will be arranged on the day of the event itself 😊
+
+Breakfast: 9am - 9:30am
+Lunch: 1pm - 2pm
+Dinner: 7pm - 8pm
+
+P/S: Snacks are allowed! Because we're cool like that 😌
+
+You don't want to miss this golden opportunity! Sign up now and be part of this exhilarating adventure!! 🚀
