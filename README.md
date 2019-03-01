@@ -7,12 +7,16 @@ Journey to be **full-stack developers**, having knowledge in front-end and back-
 - **StackedIt** [Edit markdown (.md) files with live preview](stackedit.io)
 - [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/blob/master/README.md)
 - [Fullstack web dev course for someone who can already program](https://www.reddit.com/r/learnprogramming/comments/9egdk2/online_fullstack_webdev_course_for_someone_who/?st=JSFD22C8&sh=846a5f0b)
+- [JavaScript & jQuery in 18 hours](https://www.nobledesktop.com/classes/javascript-jquery)
+- [You Don't Know JS (a book series on JavaScript)](https://github.com/getify/You-Dont-Know-JS)
+- [6 Mistakes You Might Be Making As A New Web Developer & How To Avoid Them](https://dev.to/emmawedekind/6-mistakes-youre-making-as-a-beginner-web-developer--how-to-avoid-them-5gj4)
 
 ![enter image description here](https://cdn-images-1.medium.com/max/2600/0*HICLyAdNSIyT0ODU.jpg)
 
 ## Tentative
 - 9:30am - 1:00pm **Javascript and jquery**
 -  2:00pm - 9:00pm **php and laravel**
+- [See more](https://docs.google.com/document/d/1L8oRkUdD4mrJJ_2wdX56HfumXRlkTlPYLflBMWRMZ7A/edit)
 
 ## Udemy Courses
 
@@ -46,7 +50,7 @@ Journey to be **full-stack developers**, having knowledge in front-end and back-
 
 ### Hey guys! We are pleased to say that you have been cordially invited to SISTERHOOD's first ever Hack Day! 😍 For 12 hours, we will immerse ourselves in the intriguing world of Web Development! Details of this can't-be-missed event are as follow:
 
-- Date: 23rd February 2019
+- Date: 2nd March 2019
 - Time: 9am - 9pm
 - Venue: KPS, UM
 - Subjects: Front End in the morning and Back End in the afternoon (So you're well on your way to becoming a Full Stack Developer! Ain't that cool? 🙃 Well we're not gonna be able to cover everything but something is better than nothing right? 😂)
