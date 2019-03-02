@@ -64,3 +64,13 @@ Dinner: 7pm - 8pm
 P/S: Snacks are allowed! Because we're cool like that 😌
 
 You don't want to miss this golden opportunity! Sign up now and be part of this exhilarating adventure!! 🚀
+
+
+
+--
+# OUR WORKS ON THE DAY REFERENCES
+
+- [How to Make a Simple JavaScript Quiz](https://www.sitepoint.com/simple-javascript-quiz/)
+- [GOOGLE DOCS](https://docs.google.com/document/d/1L8oRkUdD4mrJJ_2wdX56HfumXRlkTlPYLflBMWRMZ7A/edit)
+- [How To Use jQuery In Html](https://www.dev2qa.com/how-to-use-jquery-in-html/)
+- [jQuery Syntax](https://www.w3schools.com/jquery/jquery_syntax.asp)
