@@ -23,7 +23,7 @@ Journey to be **full-stack developers**, having knowledge in front-end and back-
 -  [Udemy](https://www.udemy.com/)
 -  Total length is over 50 hours ++
 - Php oop and php laravel
-- Udemy got short javascript courses so kalau nak buat exercises tu mcm ok je ambik yg pendek2
+- Udemy have short javascript courses so we can do any of those short exercises.
 
 ## This is what we have so far but haven't decide
 ### PHP
